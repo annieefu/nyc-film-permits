@@ -1,8 +1,10 @@
 
 ---
 
-# Line chart of tent cities over time, built with Svelte and D3.js. 
+# NYC Film Permits through the pandemic.
 
-## This was created by Annie Fu on February 15, 2022. Contact her at annieccfu@gmail.com.
+### Line chart of monthly film permit grants over time, built with Svelte and D3.js. 
 
-## This project is based on a template from https://github.com/sveltejs/template.
+### This was created by Annie Fu on February 15, 2022. Contact her at annieccfu@gmail.com.
+
+### Built using Svelte, based on the Svelte starter at https://github.com/sveltejs/template.
